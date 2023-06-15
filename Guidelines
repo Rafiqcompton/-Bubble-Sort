@@ -1,0 +1,2 @@
+Best suited for small datasets or when the list is partially sorted.
+Not recommended for large datasets as it has a high time complexity.
